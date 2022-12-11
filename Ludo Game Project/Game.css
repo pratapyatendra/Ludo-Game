@@ -1,0 +1,38 @@
+
+.container{
+    width: 70%; margin:auto; text-align: center;
+}
+body{
+    background-color:aquamarine;
+}
+.dice{
+    text-align: center;display:inline-block ;
+}
+button{
+    text-align:center;
+    margin-left:55px;
+    margin-bottom: 10px;
+    text-shadow: 5px 0 white;
+    font-size: 50px;
+    color:orange;
+    border-radius: 30px;
+    border:solid black;
+}
+button:hover{
+    background-color: yellowgreen;
+    transition: 0.3s;
+}
+p{
+    font-size:xx-large;
+    margin: 30px;
+    text-shadow: 4px 0 white;
+    font-size: 50px;
+    color:brown;
+}
+
+h1{
+    margin: 30px;
+    text-shadow: 10px 0 white;
+    font-size: 100px;
+    color:orange;
+}
